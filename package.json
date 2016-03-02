@@ -10,5 +10,6 @@
   "author": "Nic Gordon <gordonna@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^2.0.0",
   }
 }
