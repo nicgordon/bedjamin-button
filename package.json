@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^2.0.0",
+    "moment": "^2.11.2",
     "twitter": "^1.2.5"
   }
 }
