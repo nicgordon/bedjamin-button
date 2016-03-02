@@ -1,0 +1,14 @@
+{
+  "name": "bedside-button",
+  "version": "1.0.0",
+  "description": "Raspberry Pi app which sends a tweet when you press a physical button",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nic Gordon <gordonna@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
