@@ -1,5 +1,5 @@
 {
-  "name": "bedside-button",
+  "name": "bedjamin-button",
   "version": "1.0.0",
   "description": "Raspberry Pi app which sends a tweet when you press a physical button",
   "main": "index.js",
