@@ -25,6 +25,8 @@ gpio.setup(7, gpio.DIR_IN, gpio.EDGE_BOTH);
 
 console.log('gpio listening');
 
-while(true) {
-  // keep the program alive
-}
+setInterval(function() {
+  gpio.read(7, function(err, value) {
+    console.log('The value is ' + value);
+  });
+}, 200);
